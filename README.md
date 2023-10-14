@@ -14,8 +14,9 @@
 ## Features
 
 - Simple
-- GUi mode
 - Easy to use
+- GUi mode
+
 
 
 
