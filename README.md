@@ -7,5 +7,11 @@
     -Tri de Shell (Shell Sort)
     -Tri de Création (Création Sort)
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Tri License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![algo License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
 ## What are Look Like
 ![alt text](https://imgtr.ee/images/2023/10/14/e8384183fe6860ff875b41d4c50e390f.png)
