@@ -16,6 +16,7 @@
 - Simple
 - Easy to use
 - GUi mode
+- open source
 
 
 
