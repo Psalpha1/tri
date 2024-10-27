@@ -22,4 +22,4 @@
 
 
 ## What are Look Like
-![alt text](cap1.png)
+![alt text](tri.png)
